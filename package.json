@@ -1,16 +1,8 @@
 {
   "version": "0.0.0",
   "license": "BSD",
-  "description": "bind-unit",
+  "description": "脳汁出る",
   "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
   "main": "./lib/index.js",
-  "scripts": {
-    "test": "/Users/koba789/src/bind-unit/node_modules/.bin/mocha"
-  },
-  "name": "bind-unit",
-  "devDependencies": {
-    "should": "~1.2.1",
-    "coffee-script": "~1.4.0",
-    "mocha": "~1.7.4"
-  }
+  "name": "bind-unit"
 }
