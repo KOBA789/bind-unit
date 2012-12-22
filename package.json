@@ -4,5 +4,13 @@
   "description": "脳汁出る",
   "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
   "main": "./lib/index.js",
-  "name": "bind-unit"
+  "name": "bind-unit",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOBA789/bind-unit.git"
+  }
 }
