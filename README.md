@@ -1,3 +1,3 @@
 # bind-unit
 
-see codes
+脳汁出る
